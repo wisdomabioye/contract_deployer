@@ -321,8 +321,8 @@ export default function EvmSolidityContractDeployer() {
                         }
                     </React.Fragment>
                     :
-                    <p> Contact us to add new contract. We'll make it available in the shortest time possible<br/>
-                        You can also send a pull request to us to add new contract.
+                    <p> Contact us to add new contract. We'll make it available in the shortest time possible.<br/>
+                        You can also send a pull request to add new contract. <a href="https://github.com/wisdomabioye/contract_deployer">View on Github</a>
                     </p>
                 }
             </Col>
